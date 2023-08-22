@@ -49,5 +49,3 @@ I like to learn new things and develop new skills I am currently using javascrip
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
