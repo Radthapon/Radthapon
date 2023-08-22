@@ -51,13 +51,7 @@ I like to learn new things and develop new skills I am currently using javascrip
 </div>
 
 
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Radthapon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
-
-<b>My GitHub Stats</b>
+<h1>My GitHub Stats</h1>
 
 <a href="http://www.github.com/Radthapon"><img src="https://github-readme-stats.vercel.app/api?username=Radthapon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Radthapon's GitHub stats" /></a>
 
