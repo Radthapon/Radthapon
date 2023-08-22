@@ -13,7 +13,7 @@ I like to learn new things and develop new skills I am currently using javascrip
 * ⚡  In the future I want to learn more front end tools like vue js react native and flutter and c# .net framework back end.
   
 <h1 align="left">Skills</h1>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
